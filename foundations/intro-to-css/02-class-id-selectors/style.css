@@ -1,0 +1,20 @@
+.p-pink {
+    background-color: rgb(252, 197, 206);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+p.third {
+    font-size: 24px;
+}
+
+.first-d{
+    color: blue;
+    font-size: 36px;
+}
+
+.last-d {
+    background-color: rgb(118, 238, 118);
+    font-size: 24px;
+    font-weight: 900;
+    width: 100%;
+}
